@@ -48,7 +48,7 @@ fn pig_latin(sentence: &mut String) -> String{
         if vowels.contains(&word_vec[0]){
             new_sentence.push_str(format!("{}-hay",&word[..]).as_str());
         }else{
-            new_sentence.push_str(format!("{}-{}ay",&word[1..],&word[..1]).as_str())
+            new_sentence.push_str(format!("{}-{}ay",&word[1..],&word[..1]).as_str());
         }
         new_sentence.push(' ');
     }
