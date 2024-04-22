@@ -1,3 +1,5 @@
+use std::fmt::Display;
+
 use chapt_10::{notify, Tweet};
 
 struct Point<T>{
@@ -45,4 +47,32 @@ fn largest<T: std::cmp::PartialOrd>(list: &[T]) -> &T {
     }
 
     return largest
+}
+
+
+// lifetimes
+
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str{
+    if x.len() > y.len() {
+        x
+    }else{
+        y
+    }
+}
+
+// all together
+
+fn longest_with_an_announcement<'a,T>
+(
+    x: &'a str,
+    y: &'a str,
+    ann: T
+) -> &'a str
+where T : Display {
+    println!("Anouncement {}", ann);
+    if x.len() > y.len() {
+        x
+    }else{
+        y
+    }
 }

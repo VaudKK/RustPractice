@@ -50,7 +50,7 @@ pub fn notify_other_style(item: &impl Summary){
     println!("Breaking news: {}",item.summarize());
 }
 
-//conditional
+//conditional 
 
 impl<T: Display + PartialOrd> Pair<T> {
     fn cmp_display(&self){
