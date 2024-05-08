@@ -1,0 +1,1 @@
+D:\greatness\rust\RustPractice\add\target\debug\adder.exe: D:\greatness\rust\RustPractice\add\add_one\src\lib.rs D:\greatness\rust\RustPractice\add\add_two\src\lib.rs D:\greatness\rust\RustPractice\add\adder\src\main.rs
