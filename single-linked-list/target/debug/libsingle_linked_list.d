@@ -1,0 +1,1 @@
+D:\greatness\rust\RustPractice\single-linked-list\target\debug\libsingle_linked_list.rlib: D:\greatness\rust\RustPractice\single-linked-list\src\first.rs D:\greatness\rust\RustPractice\single-linked-list\src\lib.rs
