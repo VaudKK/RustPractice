@@ -68,7 +68,7 @@ fn main() {
         println!("Got: {}", received);
     }
 
-    let m = Mutex::new(5);
+    let m = Mutex::new(5); // mutex mutual exclusion
 
     {
         let mut num = m.lock().unwrap();

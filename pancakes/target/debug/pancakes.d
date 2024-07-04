@@ -1,0 +1,1 @@
+D:\greatness\rust\RustPractice\pancakes\target\debug\pancakes.exe: D:\greatness\rust\RustPractice\hello_macro\hello_macro_derive\src\lib.rs D:\greatness\rust\RustPractice\hello_macro\src\lib.rs D:\greatness\rust\RustPractice\pancakes\src\main.rs

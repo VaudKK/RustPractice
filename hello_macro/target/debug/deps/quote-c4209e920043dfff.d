@@ -1,0 +1,11 @@
+D:\greatness\rust\RustPractice\hello_macro\target\debug\deps\libquote-c4209e920043dfff.rmeta: C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs
+
+D:\greatness\rust\RustPractice\hello_macro\target\debug\deps\quote-c4209e920043dfff.d: C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs
+
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs:
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs:
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs:
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs:
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs:
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs:
+C:\Users\vaudk\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs:
